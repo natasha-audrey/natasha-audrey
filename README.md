@@ -1,22 +1,21 @@
+## Introduction
+
 Hello! My name is Natasha Yocum. I am a software engineer who has been
 working professionally since 2019, with interests in
-CI/CD and Developer Experience.
+CI/CD, Developer Tooling, and other DevOps practices.
 
-I have experience working with:
-- Python
-- Go
-- Typescript / Javascript
-- Rust (currently learning)
-- AWS
-  - CodeBuild, CodePipeline
-  - Cloudformation
-  - Serverless (Lambda, DDB, S3, etc)
-  - Containers (ECR, ECS, Docker)
-- IAC
-  - Terraform
-  - SAM / Cloudformation
-  - CDK
-- GitHub Actions
+## Technical Experience
 
+|                        |                                                                                                                  |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Languages              | Python </br> Go </br> Typescript </br> Rust                                                                      |
+| AWS                    | CodeBuild, CodePipeline </br> [Serverless](https://aws.amazon.com/serverless/https://aws.amazon.com/serverless/) |
+| Infrastructure As Code | Terraform </br> SAM / CloudFormation </br> CDK (Terraform and CloudFormation)                                    |
+| CI/CD                  | CodeBuild, CodePipeline </br> Github Actions                                                                     |
 
-You can follow me on [Mastodon](https://hachyderm.io/@tasha) or [LinkedIn](https://www.linkedin.com/in/nayocum/).
+## Social Media
+
+|          |                                                    |
+| -------- | -------------------------------------------------- |
+| Mastodon | [@tasha@hachyderm.io](https://hachyderm.io/@tasha) |
+| LinkedIn | [nayocum](https://www.linkedin.com/in/nayocum/)    |
